@@ -23,5 +23,8 @@ https://docs.google.com/document/d/1wKRruP6cKq2_Uei8d8lU2F7ZH4gr7p4UhHvVaVrwWSc/
 Here my group and I started planning out the dimensions of the prototype, the materials it would need, and how exactly it would work.
 
 ## Presentation:
+https://docs.google.com/document/d/1B9J356879wB8rljxl7nKUZGJD-NQjmZaNI7IpnY-pBo/edit?usp=sharing 
+This was our pitch for the app and the prototype.
+
 https://docs.google.com/drawings/d/1eQVQFqGyqeJIfD4Lg1HLMTPSI_hswWPG5D2JIk65mck/edit?usp=sharing 
 This is the final poster for the project. 
