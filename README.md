@@ -10,6 +10,9 @@ Welcome to Tank Alerts, a comprehensive solution aimed at improving water qualit
 
 ## Research:
 ### Forms (Community Engagement)
+https://docs.google.com/document/d/1AfVeMOLNUpDqNxX3OIXJUc2raTdc4ja9ZTJWcqCioZI/edit?usp=sharing
+My group and I used this shared Google Doc to write down all of our ideas, plans, and useful research articles and videos we found to dive deeper into problems people have with their water.
+
 https://docs.google.com/forms/d/e/1FAIpQLSeMwXH-47Dk1avTrZlaDE_OxQseMO5NP7CQ4-_fpcMGLjQDEQ/viewform
 Using this Google forms, I was able to gather information on how NYC residents felt on their tap water situation. Since NYC claims to have the best tap water, I wanted to know from the people just how true they think that is. 
 
